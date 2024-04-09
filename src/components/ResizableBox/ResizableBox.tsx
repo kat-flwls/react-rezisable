@@ -36,11 +36,12 @@ const ResizableBox = () => {
             style={{
               position: "absolute",
               top: 0,
-              backgroundColor: "black",
+              backgroundColor: "#666666",
               width: "100%",
+              height: "20px",
             }}
           >
-            <DotsSix size={32} color="white" />
+            <DotsSix size={20} color="white" />
           </div>
         }
       >
